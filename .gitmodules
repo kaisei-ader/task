@@ -1,0 +1,6 @@
+[submodule "task-backend"]
+	path = task-backend
+	url = https://github.com/kaisei-ader/task-backend.git
+[submodule "todo"]
+	path = todo
+	url = https://github.com/kaisei-ader/todo.git
